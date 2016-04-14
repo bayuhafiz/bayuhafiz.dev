@@ -40,8 +40,7 @@
 	<body>
 		<div class="container">
 			<div class="content">
-				<div class="title">Laravel 5</div>
-				<div class="quote">PHP Indonesia</div>
+				<div class="title">PHP Indonesia rocks!</div>
 			</div>
 		</div>
 	</body>
